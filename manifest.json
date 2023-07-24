@@ -1,9 +1,9 @@
  { 
-  "name": "Цветочная мастерская", 
-  "description": "Лучшие цветы", 
-  "start_url": "/", 
-  "lang": "ru-RU", 
-  "display": "standalone" 
+ "name": "Цветочная мастерская", 
+ "description": "Лучшие цветы", 
+ "start_url": ".", 
+ "lang": "ru-RU", 
+ "display": "standalone",
  "icons": [
   {
    "src": "icons/android-icon-36x36.png",
