@@ -1,7 +1,7 @@
 {
   "name": "Цветочная мастерская",
   "description": "Лучшие цветы",
-  "start_url": ".",
+  "start_url": "index.html",
   "lang": "ru",
   "display": "standalone",
   "icons": [
